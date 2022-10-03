@@ -17,11 +17,11 @@ El contenido de este proyecto cuenta con el script de jupyter donde se detallan 
 * Plegamiento_de_Proteinas_2D_notebook
 * doc.pdf 
 
-##Tecnologías
+## Tecnologías
 ***
 Este proyecto está realizado con Python 3 (3.10.2).  :tw-1f40d:
 
-##Instalación
+## Instalación
 ***
 - Antes de nada asegurate de tener la última versón de python compatible para poder arrancar nuestro script. Más información acerca de cómo instalar python
 :tw-27a1: ([https://www.python.org/downloads/](https://www.python.org/downloads/))
@@ -50,7 +50,7 @@ The content of this project has jupyter's script with diferents indications abou
 * Plegamiento_de_Proteinas_2D_notebook
 * doc.pdf 
 
-##Technologies
+## Technologies
 *** 
 We used Python 3 (3.10.2) for this project. :tw-1f40d:
 
