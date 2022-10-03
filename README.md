@@ -1,4 +1,4 @@
-:tw-1f1ea-1f1f8:
+
 # Plegamiento de proteínas 2D con Algoritmo de Enfriamiento Simulado
 
 
@@ -19,7 +19,7 @@ El contenido de este proyecto cuenta con el script de jupyter donde se detallan 
 
 ## Tecnologías
 ***
-Este proyecto está realizado con Python 3 (3.10.2).  :tw-1f40d:
+Este proyecto está realizado con Python 3 (3.10.2).  
 
 ## Instalación
 ***
@@ -33,7 +33,7 @@ Si quieres colaborar conmigo puedes seguirme en **LinkedIn** y reaccionar a mis 
 
 
 
-:tw-1f1ec-1f1e7: :tw-1f1fa-1f1f8:
+
 
 # 2D Protein Folding with Simulated Annealing
 In this university project about the subject of Artificial Intelligence we had to try for predict the proteins structures starting with their amino acid chains, we used differents functions that subsequently helped us to implements the [**Simulated Annealing**](https://es.wikipedia.org/wiki/Algoritmo_de_recocido_simulado "**Simulated Annealing**") (principal function).     
@@ -52,7 +52,7 @@ The content of this project has jupyter's script with diferents indications abou
 
 ## Technologies
 *** 
-We used Python 3 (3.10.2) for this project. :tw-1f40d:
+We used Python 3 (3.10.2) for this project. 
 
 ##Installation
 ***
